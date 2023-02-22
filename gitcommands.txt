@@ -10,3 +10,7 @@ you can then make changes to the code and commit the files
 e.g git commit chapter3.txt -m "updates to just chapter 3"
 git push -u orgin master (to continue to push to the repository)
 
+
+
+if you want to remove files from an add use this:
+git rm --cached -r .
